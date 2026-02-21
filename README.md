@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hii there<br><br>Nice meeting you, I'm Swati!<br>A Full Stack Developer skilled in building scalable web applications using the MERN stack.<br>I enjoy working across both frontend and backend to create complete, efficient digital solutions.<br><br>How to reach me: Linkdin - @swatikumari93
+Hii there<br><br>Nice meeting you, I'm Swati!<br>A Full Stack Developer skilled in building scalable web applications using the MERN stack.<br>I enjoy working across both frontend and backend to create complete, efficient digital solutions.<br><br>How to reach me: Linkdin - https://www.linkdin.com/in/swatikumari93
 
 
 ## 🌐 Socials:
